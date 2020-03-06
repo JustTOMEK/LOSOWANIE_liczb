@@ -11,7 +11,7 @@ int main()
     vector <int> alamo;
     srand( time( NULL ) );
 
-    cout<<"Zapraszam do pliku tekstowego pt. pary.txt"
+    cout<<"Zapraszam do pliku tekstowego pt. pary.txt";
 
     int licznik=2,ilosc,przedzial;
 
